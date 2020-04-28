@@ -21,6 +21,6 @@ class String
   end
 end
 
-string = String.new("This, well, is a sentence. This is too!! And so is this, I think? Woo...")
+# string = String.new("This, well, is a sentence. This is too!! And so is this, I think? Woo...")
 
-puts string.count_sentences
+# puts string.count_sentences
