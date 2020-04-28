@@ -19,3 +19,5 @@ class String
     print array
   end
 end
+
+string = String.new()
